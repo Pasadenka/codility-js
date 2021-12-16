@@ -1,0 +1,27 @@
+{
+  "name": "codility",
+  "version": "1.0.0",
+  "description": "Codility lessons implementation with unit tests. Written in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pasadenka/codility-js.git"
+  },
+  "keywords": [
+    "codility",
+    "train",
+    "lessons"
+  ],
+  "author": "Pasadenka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pasadenka/codility-js/issues"
+  },
+  "homepage": "https://github.com/Pasadenka/codility-js#readme",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
